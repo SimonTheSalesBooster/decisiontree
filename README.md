@@ -18,6 +18,9 @@ Question after question. Each one walks a branch of the decision tree. Each one 
 
 Sessions typically run ~45 minutes. You end with a fully-discovered set of requirements that would have taken weeks of back-and-forth to uncover any other way.
 
+<img width="964" height="535" alt="image" src="https://github.com/user-attachments/assets/136a66b0-8e21-42ff-9065-467474bb06df" />
+
+
 **This works for code AND for business decisions.** Course design, pricing strategy, partnership terms, product architecture — any plan with branching decisions benefits from the same process.
 
 ---
