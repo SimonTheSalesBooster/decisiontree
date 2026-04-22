@@ -1,10 +1,24 @@
-# The reason most projects fail has nothing to do with execution.
+# Decision Tree — AI Interviews You Relentlessly Before You Build Anything
 
-It's that nobody asked the hard questions before building started.
+**The reason most projects fail has nothing to do with execution.** It is that nobody asked the hard questions before building started. This Claude Code skill walks every branch of the decision tree, resolves dependencies, and produces a complete set of requirements in ~45 minutes — before a single line of code or copy is written.
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/works_with-Claude_Code-orange)](https://claude.com/claude-code)
+[![Strategy Sprints](https://img.shields.io/badge/built_by-Strategy_Sprints-red)](https://strategysprints.com)
 
 The founder says "build me X." The team builds X. Three weeks later, everyone discovers that X required seven decisions nobody made.. and four of them contradict each other.
 
 This skill eliminates that failure mode. It interviews you relentlessly — walking every branch of the decision tree, resolving dependencies one by one — until shared understanding is complete. Only then does building begin.
+
+---
+
+## Who this is for
+
+- **Technical founders** who keep rebuilding the same feature because "it's not quite right"
+- **Product managers** running discovery before green-lighting scope
+- **Consultants and coaches** designing offers, courses, workshops, pricing structures
+- **Agency owners** scoping client projects to avoid the "that's not what I meant" moment at week 3
+- **Solo developers** who want an adversarial planning partner before committing 3 weeks
 
 ---
 
@@ -130,20 +144,65 @@ The questions ARE the work. The building is just the easy part that comes after.
 
 ---
 
-## About Strategy Sprints
+## FAQ
 
-[Strategy Sprints](https://www.strategysprints.com) helps B2B founders close bigger deals, faster, without hiring more people. 90-day sprints. One constraint at a time. Added over $2 Billion in sales to clients in finance, software, and consulting.
+**Does this work for non-technical projects?**
+Yes. Course design, pricing strategy, partnership terms, hiring plans — any plan with branching decisions benefits. The skill has two variants: one for code, one for business decisions.
 
-**What we offer:**
+**How many questions should I expect?**
+20-40 questions over ~45 minutes. Most get a recommended answer attached so you can speed through the obvious ones.
 
-- **Sprint Club** — 251 founders across 72 countries. $49/month. AI-powered sales skills, community, weekly content.
-- **200K Club** — Weekly group coaching. 5 founders per group. Pipeline, deals, pricing. $900/month.
-- **Private Implementation** — 90-day sprints with your team. $9,000/month. Best result: 144x ROI.
-- **AI Operations Sprint** — Build your AI infrastructure in 5 days. $15,000.
-- **One-on-One Coaching** — $30,000 per client.
-- **Workshop** — $80,000. Full-day intensive for your leadership team.
+**Can I quit mid-session and resume?**
+Yes. Save the transcript, paste back into a new session, and say "continue."
 
-**Book a free Strategy Sprint call:** [strategysprints.com](https://www.strategysprints.com)
+**What makes this different from a regular AI chat?**
+Most chats are answer-driven. This is question-driven. The skill's job is to find the decisions you didn't know you had to make.
+
+**Does it replace customer research?**
+No. The questions are internal — they surface your assumptions. Talking to buyers is still required for external validation.
+
+---
+
+## Related search terms
+
+decision tree AI · decision-making framework · project planning AI · requirements discovery · scope planning · product discovery · stakeholder interview · AI interviewer · Claude Code skills · pre-build discovery · project scoping · pricing strategy AI · course design AI · offer design · founder interview · plan before build · Ogilvy discipline · AI scoping · technical decision AI · AI pair planner · Strategy Sprints methodology
+
+---
+
+## About
+
+Built by [Simon Severino](https://linkedin.com/in/simonseverino), founder of [Strategy Sprints](https://strategysprints.com). Added over $2 billion in sales to B2B clients in finance, software, and consulting. Author of *Strategy Sprints* (Kogan Page) and *Time Freedom* with Jay Abraham.
+
+## Strategy Sprints offers
+
+| Offer | Price | Format |
+|-------|-------|--------|
+| Sprint Club | $49/mo | Community + 47 AI skills (7-day trial) |
+| Jetpack Monthly | $200/mo | Cohort workshops |
+| 200K Club | $900/mo | 5-founder group coaching |
+| Private Jetpack | $9K/mo | 1:1 ongoing with Simon |
+| AI Operations Sprint | $15K | 5-day intensive |
+| 90-day Private Sprint | $30K+ | 1:1, best result 144x ROI |
+| Certification | custom | For consultants teaching the methodology |
+
+**Talk to us:**
+- 🗓️ [30-min coffee with Simon](https://calendly.com/simonseverino/coffee-with-simon)
+- 🗓️ [Discovery call for the 90-day sprint](https://calendly.com/strategysprint/discovery-call)
+- 🗓️ [Certification conversation](https://calendly.com/strategysprint/certification)
+- 🌍 [strategysprints.com](https://strategysprints.com)
+
+## More open-source skills
+
+- [**natural-planning-for-teams**](https://github.com/SimonTheSalesBooster/natural-planning-for-teams) — David Allen + Ed Lamont's 11-minute team planning model
+- [**sevencritics**](https://github.com/SimonTheSalesBooster/sevencritics) — stress-test copy through 7 hostile reader personas
+- [**prospectingwork**](https://github.com/SimonTheSalesBooster/prospectingwork) — Rick Rubin positioning diagnostic
+- [**board-of-advisors**](https://github.com/SimonTheSalesBooster/board-of-advisors) — 15 AI advisors meeting every morning
+- [**six-strategy-levels**](https://github.com/SimonTheSalesBooster/six-strategy-levels) — simplest way to organize a B2B business
+- [**advisor-playbook**](https://github.com/SimonTheSalesBooster/advisor-playbook) — 5 decision frameworks from Howard Marks + Marc Andreessen
+
+## License
+
+MIT. Fork it, improve it, ship it.
 
 ---
 
